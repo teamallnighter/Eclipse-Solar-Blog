@@ -4,6 +4,7 @@ banner_image: "/uploads/2020/12/29/127840751_1755824611248228_369590503541506602
 layout: landing-page
 heading: Eclipse Sustainability Projects
 partners:
+- "/uploads/2020/12/29/simpliphi-power-company-logo.webp"
 - "/uploads/2020/12/29/biolite_logo.png"
 - "/uploads/2020/12/29/goalzero_black2.png"
 services:
