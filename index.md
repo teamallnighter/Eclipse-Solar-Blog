@@ -11,10 +11,9 @@ services:
 - description: Solar solutions for home, work and industrial
   heading: Solar
   icon: "/uploads/2020/12/29/82097-200.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+- description: Camping and off grid
+  heading: Out Door Living
+  icon: "/uploads/2020/12/29/travel-camping-tent-icon-1.png"
 sub_heading: Solar, Energy Storage, EV & Smart Products
 textline: 'Eclipse Solar
 
