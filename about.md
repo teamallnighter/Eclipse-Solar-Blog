@@ -5,8 +5,8 @@ banner_image: "/uploads/2020/12/29/solar-panels-australia.png"
 heading: Ecelipse
 sub_heading: Sustainability made sustainable.
 layout: landing-page
-textline: A multidisciplinary centre of experts who are essential to patient-oriented
-  research.
+textline: Everyone is capable of living a more sustainable lifestyle, and our mission
+  is to empower people to do just that
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 hero_button:
@@ -24,7 +24,7 @@ menu:
 ##   
 Why Us
 
-Everyone is capable of living a more sustainable lifestyle, and our mission is to empower people to do just that. Whether you are considering a residential or large scale commercial clean energy project, we are committed to working with you to discover the most efficient and effective solution for your needs.
+Whether you are considering a residential or large scale commercial clean energy project, we are committed to working with you to discover the most efficient and effective solution for your needs.
 
 ## Your goals, realized
 
