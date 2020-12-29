@@ -12,6 +12,13 @@ show_staff: true
 hero_button:
   text: Learn More
   href: https://www.eclipsesolar.ca/about
+partners:
+- "/uploads/2020/12/29/unnamed.png"
+- "/uploads/2020/12/29/goalzero_black2.png"
+- "/uploads/2020/12/29/biolite_logo.png"
+- "/uploads/2020/12/29/simpliphi-power-company-logo.webp"
+- "/uploads/2020/12/29/lg-logo-2014-present.png"
+show_news: true
 menu:
   footer:
     identifier: _about
