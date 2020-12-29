@@ -8,10 +8,9 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
+- description: Solar solutions for home, work and industrial
+  heading: Solar
+  icon: "/uploads/2020/12/29/82097-200.png"
 - description: Performing collaborative research and providing services to support
     the biotechnology sector.
   heading: BioTech
