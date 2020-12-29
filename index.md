@@ -4,9 +4,8 @@ banner_image: "/uploads/2020/12/29/127840751_1755824611248228_369590503541506602
 layout: landing-page
 heading: Eclipse Sustainability Projects
 partners:
-- "/uploads/2017/11/13/stem.png"
-- "/uploads/2017/11/13/UPenn_logo.png"
-- "/uploads/2017/11/13/nysed.png"
+- "/uploads/2020/12/29/biolite_logo.png"
+- "/uploads/2020/12/29/goalzero_black2.png"
 services:
 - description: Solar solutions for home, work and industrial
   heading: Solar
