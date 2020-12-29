@@ -1,8 +1,8 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2020/12/29/127840751_1755824611248228_3695905035415066020_o.jpg"
 layout: landing-page
-heading: Eclipse Solar Blog
+heading: Eclipse Sustainability Projects
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
@@ -16,17 +16,18 @@ services:
     the biotechnology sector.
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
-textline: | 
-  Eclipse Solar
-  
+sub_heading: Solar, Energy Storage, EV & Smart Products
+textline: 'Eclipse Solar
 
+'
 hero_button:
-  text: Learn more
-  href: "/about"
+  text: Show Now
+  href: https://www.eclipsesolar.ca/
 show_news: true
+show_staff: false
 menu:
   navigation:
     identifier: _index
     weight: 1
+
 ---
