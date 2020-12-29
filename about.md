@@ -5,20 +5,12 @@ banner_image: "/uploads/2020/12/29/solar-panels-australia.png"
 heading: Ecelipse
 sub_heading: Sustainability made sustainable.
 layout: landing-page
-textline: Everyone is capable of living a more sustainable lifestyle, and our mission
-  is to empower people to do just that
+textline: Everyone is capable of living a more sustainable lifestyle, and our mission is to empower people to do just that
 publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 hero_button:
   text: Learn More
   href: https://www.eclipsesolar.ca/about
-partners:
-- "/uploads/2020/12/29/unnamed.png"
-- "/uploads/2020/12/29/goalzero_black2.png"
-- "/uploads/2020/12/29/biolite_logo.png"
-- "/uploads/2020/12/29/simpliphi-power-company-logo.webp"
-- "/uploads/2020/12/29/lg-logo-2014-present.png"
-show_news: true
 menu:
   footer:
     identifier: _about
@@ -28,10 +20,10 @@ menu:
     weight: 2
 
 ---
-##   
-Why Us
+ 
+## Why Us
 
-Whether you are considering a residential or large scale commercial clean energy project, we are committed to working with you to discover the most efficient and effective solution for your needs.
+Everyone is capable of living a more sustainable lifestyle, and our mission is to empower people to do just that. Whether you are considering a residential or large scale commercial clean energy project, we are committed to working with you to discover the most efficient and effective solution for your needs.
 
 ## Your goals, realized
 
