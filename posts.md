@@ -2,7 +2,7 @@
 title: Posts
 layout: posts
 sub_heading: ''
-description: Articles by Eclipse College
+description: Articles by EMCO College
 publish_date: 2017-11-01 03:00:00 +0000
 menu:
   footer:

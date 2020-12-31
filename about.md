@@ -1,7 +1,7 @@
 ---
 title: About
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2020/12/29/solar-panels-australia.png"
+banner_image: "/uploads/2020/12/29/-panels-australia.png"
 heading: Ecelipse
 sub_heading: Sustainability made sustainable.
 layout: landing-page
@@ -10,7 +10,7 @@ publish_date: '2017-12-01T04:00:00.000+00:00'
 show_staff: true
 hero_button:
   text: Learn More
-  href: https://www.eclipsesolar.ca/about
+  href: https://www.EMCO.ca/about
 menu:
   footer:
     identifier: _about

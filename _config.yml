@@ -1,6 +1,6 @@
-title: Eclipse Solar Blog
-short_title: Eclipse Blog
-description: Blog for the Eclipse Solar Store
+title: EMCO  Blog
+short_title: EMCO Blog
+description: Blog for the EMCO  Store
 baseurl:
 permalink: "/:path/"
 defaults:
